@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="932e5681-5939-49fd-8ef4-0198b1001dc8" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Pitch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="232" column="26" selection-start-line="232" selection-start-column="26" selection-end-line="232" selection-end-column="26" />
+              <folding>
+                <element signature="e#1457#1528#0" />
+                <element signature="e#1535#2072#0" />
+                <element signature="e#2078#2471#0" />
+                <element signature="e#2477#3105#0" />
+                <element signature="e#2701#2753#1" />
+                <element signature="e#3111#3865#0" />
+                <element signature="e#3216#3284#1" />
+                <element signature="e#3297#3355#1" />
+                <element signature="e#3383#3561#1" />
+                <element signature="e#3503#3551#1" />
+                <element signature="e#3702#3858#1" />
+                <element signature="e#3871#5241#0" />
+                <element signature="e#4366#4432#1" />
+                <element signature="e#4475#4663#1" />
+                <element signature="e#4574#4653#1" />
+                <element signature="e#4769#4853#1" />
+                <element signature="e#4929#5050#1" />
+                <element signature="e#5247#5522#0" />
+                <element signature="e#5331#5516#1" />
+                <element signature="e#5528#5868#0" />
+                <element signature="e#5597#5674#1" />
+                <element signature="e#5687#5862#1" />
+                <element signature="e#6454#6540#0" />
+                <element signature="e#6631#6717#0" />
+                <element signature="e#6806#6892#0" />
+                <element signature="e#7208#7593#0" />
+                <element signature="e#7250#7458#1" />
+                <element signature="e#7476#7583#1" />
+                <element signature="e#8498#9040#0" />
+                <element signature="e#8842#8937#1" />
+                <element signature="e#9046#14982#0" />
+                <element signature="e#9555#9592#0" />
+                <element signature="e#9757#9809#1" />
+                <element signature="e#9874#9927#1" />
+                <element signature="e#10166#11173#1" />
+                <element signature="e#10238#11095#0" />
+                <element signature="e#10558#10618#1" />
+                <element signature="e#10794#11000#1" />
+                <element signature="e#10855#10982#1" />
+                <element signature="e#11433#11534#0" />
+                <element signature="e#11598#11704#0" />
+                <element signature="e#11783#11887#0" />
+                <element signature="e#12170#12319#1" />
+                <element signature="e#12375#12395#0" />
+                <element signature="e#12616#13862#1" />
+                <element signature="e#12688#13769#0" />
+                <element signature="e#12733#12852#1" />
+                <element signature="e#12973#13171#1" />
+                <element signature="e#13234#13349#1" />
+                <element signature="e#13393#13507#1" />
+                <element signature="e#13865#13908#0" />
+                <element signature="e#14988#15736#0" />
+                <element signature="e#15045#15703#1" />
+                <element signature="e#15185#15251#1" />
+                <element signature="e#15584#15693#1" />
+                <element signature="e#15743#18335#0" />
+                <element signature="e#15906#16080#1" />
+                <element signature="e#15961#16070#1" />
+                <element signature="e#16093#16444#1" />
+                <element signature="e#16095#16166#0" />
+                <element signature="e#16315#16434#1" />
+                <element signature="e#16565#16761#1" />
+                <element signature="e#16841#16886#1" />
+                <element signature="e#16899#16995#1" />
+                <element signature="e#17072#17299#1" />
+                <element signature="e#17504#18250#1" />
+                <element signature="e#17543#18209#1" />
+                <element signature="e#17695#17769#1" />
+                <element signature="e#18077#18194#1" />
+                <element signature="e#18263#18329#1" />
+                <element signature="e#18342#21096#0" />
+                <element signature="e#18447#18506#1" />
+                <element signature="e#18599#18715#1" />
+                <element signature="e#18657#18705#1" />
+                <element signature="e#18902#19258#1" />
+                <element signature="e#19129#19248#1" />
+                <element signature="e#19612#19686#1" />
+                <element signature="e#19766#19877#1" />
+                <element signature="e#19913#20014#1" />
+                <element signature="e#20028#20159#1" />
+                <element signature="e#20214#20348#1" />
+                <element signature="e#20277#20338#1" />
+                <element signature="e#20554#20613#1" />
+                <element signature="e#20652#20753#1" />
+                <element signature="e#20795#20977#1" />
+                <element signature="e#20846#20967#1" />
+                <element signature="e#21003#21057#1" />
+                <element signature="e#21103#21353#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Player</find>
+      <find>closebtn</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>AIPlayer</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Card.java" />
+        <option value="$PROJECT_DIR$/src/Player.java" />
+        <option value="$PROJECT_DIR$/src/testing/PlayerTest.java" />
+        <option value="$PROJECT_DIR$/src/AIPlayer.java" />
+        <option value="$PROJECT_DIR$/src/testing/AIPlayerTest.java" />
+        <option value="$PROJECT_DIR$/src/testing/CardTest.java" />
+        <option value="$PROJECT_DIR$/src/Deck.java" />
+        <option value="$PROJECT_DIR$/src/testing/DeckTest.java" />
+        <option value="$PROJECT_DIR$/src/PitchDealer.java" />
+        <option value="$PROJECT_DIR$/src/testing/PitchDealerTest.java" />
+        <option value="$PROJECT_DIR$/src/testing/PitchTest.java" />
+        <option value="$PROJECT_DIR$/src/Pitch.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Pitch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pitch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pitch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pitch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pitch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551995512694" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Pitch">
+    <configuration name="Pitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pitch" />
+      <module name="Pitch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Pitch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Pitch" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeckTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Pitch" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DeckTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeckTest.Deck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Pitch" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DeckTest" />
+      <option name="METHOD_NAME" value="Deck" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PitchDealerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Pitch" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PitchDealerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Pitch" />
+        <item itemvalue="JUnit.All in Pitch" />
+        <item itemvalue="JUnit.PitchDealerTest" />
+        <item itemvalue="JUnit.DeckTest" />
+        <item itemvalue="JUnit.DeckTest.Deck" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="932e5681-5939-49fd-8ef4-0198b1001dc8" name="Default Changelist" comment="" />
+      <created>1551990736833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551990736833</updated>
+      <workItem from="1551990738239" duration="4842000" />
+      <workItem from="1552580384733" duration="287000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DeckTest_Deck - 2019.03.07 at 15h 31m 22s.xml">
+      <configuration name="DeckTest.Deck" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DeckTest - 2019.03.07 at 15h 31m 26s.xml">
+      <configuration name="DeckTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DeckTest - 2019.03.07 at 15h 32m 39s.xml">
+      <configuration name="DeckTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PitchDealerTest - 2019.03.07 at 15h 35m 56s.xml">
+      <configuration name="PitchDealerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PitchDealerTest - 2019.03.07 at 15h 36m 09s.xml">
+      <configuration name="PitchDealerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PitchDealerTest - 2019.03.07 at 15h 36m 47s.xml">
+      <configuration name="PitchDealerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PitchDealerTest - 2019.03.07 at 15h 41m 11s.xml">
+      <configuration name="PitchDealerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PitchDealerTest - 2019.03.07 at 15h 47m 34s.xml">
+      <configuration name="PitchDealerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Pitch - 2019.03.07 at 15h 47m 41s.xml">
+      <configuration name="All in Pitch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Pitch - 2019.03.07 at 15h 47m 54s.xml">
+      <configuration name="All in Pitch" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5129000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12520194" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35643566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32871288" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" order="11" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/testing/PlayerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="62" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <folding>
+            <element signature="method#Card#0;class#Card#0" />
+            <element signature="e#2200#2201#0" expanded="true" />
+            <element signature="e#2232#2233#0" expanded="true" />
+            <element signature="e#2264#2265#0" expanded="true" />
+            <element signature="e#2295#2296#0" expanded="true" />
+            <element signature="e#2327#2328#0" expanded="true" />
+            <element signature="e#2364#2365#0" expanded="true" />
+            <element signature="e#2401#2402#0" expanded="true" />
+            <element signature="e#2431#2432#0" expanded="true" />
+            <element signature="e#2462#2463#0" expanded="true" />
+            <element signature="e#2495#2496#0" expanded="true" />
+            <element signature="e#2526#2527#0" expanded="true" />
+            <element signature="e#2558#2559#0" expanded="true" />
+            <element signature="e#2591#2592#0" expanded="true" />
+            <element signature="e#2625#2626#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AIPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="178" selection-start-line="178" selection-end-line="178" />
+          <folding>
+            <element signature="method#setBid#0;class#AIPlayer#0" />
+            <element signature="e#4489#4490#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testing/AIPlayerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testing/CardTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="860">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testing/PitchDealerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="76" column="9" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testing/DeckTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="35" selection-start-line="35" selection-end-line="51" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testing/PitchTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/PitchDealer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Deck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pitch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="232" column="26" selection-start-line="232" selection-start-column="26" selection-end-line="232" selection-end-column="26" />
+          <folding>
+            <element signature="e#1457#1528#0" />
+            <element signature="e#1535#2072#0" />
+            <element signature="e#2078#2471#0" />
+            <element signature="e#2477#3105#0" />
+            <element signature="e#2701#2753#1" />
+            <element signature="e#3111#3865#0" />
+            <element signature="e#3216#3284#1" />
+            <element signature="e#3297#3355#1" />
+            <element signature="e#3383#3561#1" />
+            <element signature="e#3503#3551#1" />
+            <element signature="e#3702#3858#1" />
+            <element signature="e#3871#5241#0" />
+            <element signature="e#4366#4432#1" />
+            <element signature="e#4475#4663#1" />
+            <element signature="e#4574#4653#1" />
+            <element signature="e#4769#4853#1" />
+            <element signature="e#4929#5050#1" />
+            <element signature="e#5247#5522#0" />
+            <element signature="e#5331#5516#1" />
+            <element signature="e#5528#5868#0" />
+            <element signature="e#5597#5674#1" />
+            <element signature="e#5687#5862#1" />
+            <element signature="e#6454#6540#0" />
+            <element signature="e#6631#6717#0" />
+            <element signature="e#6806#6892#0" />
+            <element signature="e#7208#7593#0" />
+            <element signature="e#7250#7458#1" />
+            <element signature="e#7476#7583#1" />
+            <element signature="e#8498#9040#0" />
+            <element signature="e#8842#8937#1" />
+            <element signature="e#9046#14982#0" />
+            <element signature="e#9555#9592#0" />
+            <element signature="e#9757#9809#1" />
+            <element signature="e#9874#9927#1" />
+            <element signature="e#10166#11173#1" />
+            <element signature="e#10238#11095#0" />
+            <element signature="e#10558#10618#1" />
+            <element signature="e#10794#11000#1" />
+            <element signature="e#10855#10982#1" />
+            <element signature="e#11433#11534#0" />
+            <element signature="e#11598#11704#0" />
+            <element signature="e#11783#11887#0" />
+            <element signature="e#12170#12319#1" />
+            <element signature="e#12375#12395#0" />
+            <element signature="e#12616#13862#1" />
+            <element signature="e#12688#13769#0" />
+            <element signature="e#12733#12852#1" />
+            <element signature="e#12973#13171#1" />
+            <element signature="e#13234#13349#1" />
+            <element signature="e#13393#13507#1" />
+            <element signature="e#13865#13908#0" />
+            <element signature="e#14988#15736#0" />
+            <element signature="e#15045#15703#1" />
+            <element signature="e#15185#15251#1" />
+            <element signature="e#15584#15693#1" />
+            <element signature="e#15743#18335#0" />
+            <element signature="e#15906#16080#1" />
+            <element signature="e#15961#16070#1" />
+            <element signature="e#16093#16444#1" />
+            <element signature="e#16095#16166#0" />
+            <element signature="e#16315#16434#1" />
+            <element signature="e#16565#16761#1" />
+            <element signature="e#16841#16886#1" />
+            <element signature="e#16899#16995#1" />
+            <element signature="e#17072#17299#1" />
+            <element signature="e#17504#18250#1" />
+            <element signature="e#17543#18209#1" />
+            <element signature="e#17695#17769#1" />
+            <element signature="e#18077#18194#1" />
+            <element signature="e#18263#18329#1" />
+            <element signature="e#18342#21096#0" />
+            <element signature="e#18447#18506#1" />
+            <element signature="e#18599#18715#1" />
+            <element signature="e#18657#18705#1" />
+            <element signature="e#18902#19258#1" />
+            <element signature="e#19129#19248#1" />
+            <element signature="e#19612#19686#1" />
+            <element signature="e#19766#19877#1" />
+            <element signature="e#19913#20014#1" />
+            <element signature="e#20028#20159#1" />
+            <element signature="e#20214#20348#1" />
+            <element signature="e#20277#20338#1" />
+            <element signature="e#20554#20613#1" />
+            <element signature="e#20652#20753#1" />
+            <element signature="e#20795#20977#1" />
+            <element signature="e#20846#20967#1" />
+            <element signature="e#21003#21057#1" />
+            <element signature="e#21103#21353#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>javafx-swt</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Pitch</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.GridPane?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<GridPane fx:controller="sample.SampleController"
+          stylesheets="/sample/sample.css"
+          xmlns:fx="http://javafx.com/fxml" alignment="center" hgap="10" vgap="10">
+    <Button text="An empty button" />
+    <Button GridPane.columnIndex="2" GridPane.rowIndex="2"  text="Say 'Hello World'" onAction="#sayHelloWorld" />
+    <Label GridPane.rowIndex="15" fx:id="helloWorld" />
+
+</GridPane>
