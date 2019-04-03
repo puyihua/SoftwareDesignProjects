@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbd638ba-805e-40b8-b48b-a353a6da5a4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/RpslsClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RpslsServer/src/RpslsServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RpslsServer/src/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPSLS/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPSLS/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPSLS/src/ClientFX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPSLS/src/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPSLS/src/Gesture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPSLS/src/Round.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPSLS/src/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPSLS/src/ServerFX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RpslsClient/RpslsClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RpslsClient/RpslsClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RpslsClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RpslsClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RpslsServer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsServer/out/production/RpslsServer/RpslsServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RpslsServer/out/production/RpslsServer/RpslsServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsServer/src/RpslsServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RpslsServer/src/RpslsServer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,10 +34,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/RpslsClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+            <state relative-caret-position="265">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="164" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="method#stop#0;class#RpslsClient#0" />
+                <element signature="method#connectScene#0;class#RpslsClient#0" />
+                <element signature="method#waitScene#0;class#RpslsClient#0" />
+                <element signature="method#gameScene#0;class#RpslsClient#0" />
               </folding>
             </state>
           </provider>
@@ -41,6 +56,15 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>paper</find>
+      <find>rock</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>spock</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
@@ -52,10 +76,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="136" />
-    <option name="y" value="25" />
-    <option name="width" value="1280" />
-    <option name="height" value="723" />
+    <option name="x" value="185" />
+    <option name="y" value="147" />
+    <option name="width" value="1146" />
+    <option name="height" value="599" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -75,18 +99,29 @@
               <item name="RpslsClient" type="462c0819:PsiDirectoryNode" />
               <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="RpslsClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RpslsClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RpslsClient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RpslsClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553833148696" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554193070861" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -133,17 +168,19 @@
       <workItem from="1553386846280" duration="6000" />
       <workItem from="1553796026956" duration="3413000" />
       <workItem from="1553924875171" duration="376000" />
+      <workItem from="1554190797417" duration="2330000" />
+      <workItem from="1554222026110" duration="616000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4183000" />
+    <option name="totallyTimeSpent" value="7129000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="136" y="25" width="1280" height="723" extended-state="0" />
+    <frame x="185" y="147" width="1146" height="599" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26171243" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16123189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -186,10 +223,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RpslsClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        <state relative-caret-position="265">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="164" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="method#stop#0;class#RpslsClient#0" />
+            <element signature="method#connectScene#0;class#RpslsClient#0" />
+            <element signature="method#waitScene#0;class#RpslsClient#0" />
+            <element signature="method#gameScene#0;class#RpslsClient#0" />
           </folding>
         </state>
       </provider>

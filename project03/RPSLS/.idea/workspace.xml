@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1fa825c7-622a-44f4-8af2-eacc6dbe6d47" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClientFX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gesture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Round.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ServerFX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsClient/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RpslsClient/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsClient/out/production/RpslsClient/RpslsClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RpslsClient/out/production/RpslsClient/RpslsClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsClient/src/RpslsClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RpslsClient/src/RpslsClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RpslsServer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsServer/out/production/RpslsServer/RpslsServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RpslsServer/out/production/RpslsServer/RpslsServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsServer/src/RpslsServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RpslsServer/src/RpslsServer.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ClientFX.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-508">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
+              <folding>
+                <element signature="method#stop#0;class#ClientFX#0" />
+                <element signature="method#createClient#0;class#ClientFX#0" />
+                <element signature="method#connectScene#0;class#ClientFX#0" />
+                <element signature="method#gameScene#0;class#ClientFX#0" />
+                <element signature="method#disableButton#0;class#ClientFX#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ServerFX.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="55" column="50" selection-start-line="55" selection-start-column="50" selection-end-line="55" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="257">
+              <caret line="65" selection-start-line="65" selection-end-line="65" />
+              <folding>
+                <element signature="method#Client#0;class#Client#0" />
+                <element signature="method#startConn#0;class#Client#0" />
+                <element signature="method#send#0;class#Client#0" />
+                <element signature="method#closeConn#0;class#Client#0" />
+                <element signature="e#1464#1750#0" />
+                <element signature="e#1610#1735#1" />
+                <element signature="method#decode#0;class#Client#0" />
+                <element signature="e#1987#2045#1" />
+                <element signature="e#2058#2109#1" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Server.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="698">
+              <caret line="90" selection-start-line="90" selection-end-line="90" />
+              <folding>
+                <element signature="method#Server#0;class#Server#0" />
+                <element signature="method#startConn#0;class#Server#0" />
+                <element signature="method#send#0;class#Server#0" />
+                <element signature="e#1020#1068#1" />
+                <element signature="method#closeConn#0;class#Server#0" />
+                <element signature="e#1176#1217#1" />
+                <element signature="n#!!block;n#getPlayerNum#0;n#Server#0" />
+                <element signature="e#2139#2302#0" />
+                <element signature="method#run#0;class#ClientThread#0;class#Server#0" />
+                <element signature="e#3136#5043#0" />
+                <element signature="e#3166#5029#1" />
+                <element signature="e#3328#3513#1" />
+                <element signature="e#3435#3582#1" />
+                <element signature="e#3655#5011#1" />
+                <element signature="e#3346#3882#1" />
+                <element signature="e#3461#3563#1" />
+                <element signature="e#3593#3727#1" />
+                <element signature="e#3922#4353#1" />
+                <element signature="e#4463#4598#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Gesture.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+              <folding>
+                <element signature="method#Gesture#0;class#Gesture#0" />
+                <element signature="e#690#755#1" />
+                <element signature="n#!!block;n#getIndex#0;n#Gesture#0" />
+                <element signature="n#!!block;n#getOwner#0;n#Gesture#0" />
+                <element signature="method#compare#0;class#Gesture#0" />
+                <element signature="e#1024#1057#1" />
+                <element signature="e#1080#1221#1" />
+                <element signature="e#1122#1163#1" />
+                <element signature="e#1169#1211#1" />
+                <element signature="e#1244#1385#1" />
+                <element signature="e#1286#1327#1" />
+                <element signature="e#1333#1375#1" />
+                <element signature="e#1408#1549#1" />
+                <element signature="e#1450#1491#1" />
+                <element signature="e#1497#1539#1" />
+                <element signature="e#1572#1713#1" />
+                <element signature="e#1614#1655#1" />
+                <element signature="e#1661#1703#1" />
+                <element signature="e#1728#1869#1" />
+                <element signature="e#1770#1811#1" />
+                <element signature="e#1817#1859#1" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Round.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#98#99#0" expanded="true" />
+                <element signature="e#125#126#0" expanded="true" />
+                <element signature="e#394#395#0" expanded="true" />
+                <element signature="e#423#424#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Game.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+              <folding>
+                <element signature="method#Game#0;class#Game#0" />
+                <element signature="method#roundOver#0;class#Game#0" />
+                <element signature="n#!!block;n#gameOver#0;n#Game#0" />
+                <element signature="n#!!block;n#getCurWinner#0;n#Game#0" />
+                <element signature="n#!!block;n#getOverallWinner#0;n#Game#0" />
+                <element signature="method#addGesture#0;class#Game#0" />
+                <element signature="e#1121#1198#1" />
+                <element signature="e#1211#1849#1" />
+                <element signature="e#1337#1419#1" />
+                <element signature="e#1459#1541#1" />
+                <element signature="e#1576#1666#1" />
+                <element signature="e#1698#1753#1" />
+                <element signature="e#1784#1839#1" />
+                <element signature="method#printRound#0;class#Game#0" />
+                <element signature="e#2006#2365#1" />
+                <element signature="e#2272#2333#1" />
+                <element signature="n#!!block;n#pointString#0;n#Game#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>wait for</find>
+      <find>Input</find>
+      <find>messages</find>
+      <find>createServer</find>
+      <find>counter</find>
+      <find>numClient</find>
+      <find>game</find>
+      <find>New Game</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Client.java" />
+        <option value="$PROJECT_DIR$/src/Game.java" />
+        <option value="$PROJECT_DIR$/src/Gesture.java" />
+        <option value="$PROJECT_DIR$/src/ServerFX.java" />
+        <option value="$PROJECT_DIR$/src/ClientFX.java" />
+        <option value="$PROJECT_DIR$/src/Server.java" />
+        <option value="$PROJECT_DIR$/src/Round.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1065" />
+    <option name="y" value="303" />
+    <option name="width" value="864" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RPSLS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPSLS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RPSLS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RPSLS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554259696041" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ClientFX (1)">
+    <configuration name="ClientFX (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClientFX" />
+      <module name="RPSLS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientFX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClientFX" />
+      <module name="RPSLS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerFX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ServerFX" />
+      <module name="RPSLS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClientFX (1)" />
+      <item itemvalue="Application.ClientFX" />
+      <item itemvalue="Application.ServerFX" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientFX" />
+        <item itemvalue="Application.ServerFX" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fa825c7-622a-44f4-8af2-eacc6dbe6d47" name="Default Changelist" comment="" />
+      <created>1554221475914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554221475914</updated>
+      <workItem from="1554221482598" duration="21195000" />
+      <workItem from="1554262229254" duration="4690000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="25885000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1065" y="303" width="864" height="777" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939173" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4029197" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39968652" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3280507" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Learn" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.24959612" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3291536" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.3291536" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.39968652" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="right" id="Maven" order="0" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Gesture.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Server.java</url>
+          <line>107</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Game.java</url>
+          <line>42</line>
+          <properties class="Game" method="addGesture">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Game.java</url>
+          <line>30</line>
+          <properties class="Game" method="gameOver">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ClientFX.java</url>
+          <line>53</line>
+          <properties class="ClientFX" method="createClient">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/net/Socket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/javafx-src.zip!/javafx/scene/control/Label.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="71" column="11" selection-start-line="71" selection-start-column="11" selection-end-line="71" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Round.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ServerFX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="55" column="50" selection-start-line="55" selection-start-column="50" selection-end-line="55" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientFX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-508">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="method#stop#0;class#ClientFX#0" />
+            <element signature="method#createClient#0;class#ClientFX#0" />
+            <element signature="method#connectScene#0;class#ClientFX#0" />
+            <element signature="method#gameScene#0;class#ClientFX#0" />
+            <element signature="method#disableButton#0;class#ClientFX#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <element signature="method#Client#0;class#Client#0" />
+            <element signature="method#startConn#0;class#Client#0" />
+            <element signature="method#send#0;class#Client#0" />
+            <element signature="method#closeConn#0;class#Client#0" />
+            <element signature="e#1464#1750#0" />
+            <element signature="e#1610#1735#1" />
+            <element signature="method#decode#0;class#Client#0" />
+            <element signature="e#1987#2045#1" />
+            <element signature="e#2058#2109#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="698">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+          <folding>
+            <element signature="method#Server#0;class#Server#0" />
+            <element signature="method#startConn#0;class#Server#0" />
+            <element signature="method#send#0;class#Server#0" />
+            <element signature="e#1020#1068#1" />
+            <element signature="method#closeConn#0;class#Server#0" />
+            <element signature="e#1176#1217#1" />
+            <element signature="n#!!block;n#getPlayerNum#0;n#Server#0" />
+            <element signature="e#2139#2302#0" />
+            <element signature="method#run#0;class#ClientThread#0;class#Server#0" />
+            <element signature="e#3136#5043#0" />
+            <element signature="e#3166#5029#1" />
+            <element signature="e#3328#3513#1" />
+            <element signature="e#3435#3582#1" />
+            <element signature="e#3655#5011#1" />
+            <element signature="e#3346#3882#1" />
+            <element signature="e#3461#3563#1" />
+            <element signature="e#3593#3727#1" />
+            <element signature="e#3922#4353#1" />
+            <element signature="e#4463#4598#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gesture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding>
+            <element signature="method#Gesture#0;class#Gesture#0" />
+            <element signature="e#690#755#1" />
+            <element signature="n#!!block;n#getIndex#0;n#Gesture#0" />
+            <element signature="n#!!block;n#getOwner#0;n#Gesture#0" />
+            <element signature="method#compare#0;class#Gesture#0" />
+            <element signature="e#1024#1057#1" />
+            <element signature="e#1080#1221#1" />
+            <element signature="e#1122#1163#1" />
+            <element signature="e#1169#1211#1" />
+            <element signature="e#1244#1385#1" />
+            <element signature="e#1286#1327#1" />
+            <element signature="e#1333#1375#1" />
+            <element signature="e#1408#1549#1" />
+            <element signature="e#1450#1491#1" />
+            <element signature="e#1497#1539#1" />
+            <element signature="e#1572#1713#1" />
+            <element signature="e#1614#1655#1" />
+            <element signature="e#1661#1703#1" />
+            <element signature="e#1728#1869#1" />
+            <element signature="e#1770#1811#1" />
+            <element signature="e#1817#1859#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+          <folding>
+            <element signature="method#Game#0;class#Game#0" />
+            <element signature="method#roundOver#0;class#Game#0" />
+            <element signature="n#!!block;n#gameOver#0;n#Game#0" />
+            <element signature="n#!!block;n#getCurWinner#0;n#Game#0" />
+            <element signature="n#!!block;n#getOverallWinner#0;n#Game#0" />
+            <element signature="method#addGesture#0;class#Game#0" />
+            <element signature="e#1121#1198#1" />
+            <element signature="e#1211#1849#1" />
+            <element signature="e#1337#1419#1" />
+            <element signature="e#1459#1541#1" />
+            <element signature="e#1576#1666#1" />
+            <element signature="e#1698#1753#1" />
+            <element signature="e#1784#1839#1" />
+            <element signature="method#printRound#0;class#Game#0" />
+            <element signature="e#2006#2365#1" />
+            <element signature="e#2272#2333#1" />
+            <element signature="n#!!block;n#pointString#0;n#Game#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>javafx-swt</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>RPSLS</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

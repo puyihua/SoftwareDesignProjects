@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9388fa4b-f91d-40bb-83c4-2afba49ced14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../RpslsClient/src/RpslsClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RpslsServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPSLS/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPSLS/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPSLS/src/ClientFX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPSLS/src/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPSLS/src/Gesture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPSLS/src/Round.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPSLS/src/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPSLS/src/ServerFX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsClient/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RpslsClient/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsClient/out/production/RpslsClient/RpslsClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RpslsClient/out/production/RpslsClient/RpslsClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsClient/src/RpslsClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RpslsClient/src/RpslsClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RpslsServer/RpslsServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RpslsServer/RpslsServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RpslsServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RpslsServer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,29 +25,29 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/RpslsServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-414">
-              <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+            <state relative-caret-position="463">
+              <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2073#2074#0" expanded="true" />
+                <element signature="method#createContent#0;class#RpslsServer#0" />
+                <element signature="e#2719#2720#0" expanded="true" />
+                <element signature="e#2747#2748#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Server.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
+            <state relative-caret-position="780">
               <caret line="54" column="28" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#812#813#0" expanded="true" />
-                <element signature="e#828#829#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -70,8 +81,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="166" />
-    <option name="y" value="263" />
+    <option name="x" value="82" />
+    <option name="y" value="56" />
     <option name="width" value="904" />
     <option name="height" value="723" />
   </component>
@@ -81,6 +92,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -97,14 +110,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554189656276" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554193070829" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -146,17 +157,20 @@
       <updated>1553010352015</updated>
       <workItem from="1553010355530" duration="585000" />
       <workItem from="1553386843631" duration="10737000" />
+      <workItem from="1554189445038" duration="2354000" />
+      <workItem from="1554221426774" duration="9000" />
+      <workItem from="1554221654068" duration="1208000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11322000" />
+    <option name="totallyTimeSpent" value="14893000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="365" y="25" width="904" height="723" extended-state="0" />
+    <frame x="82" y="56" width="904" height="723" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.225058" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23897912" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -164,7 +178,6 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Learn" order="7" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3296355" />
@@ -178,6 +191,7 @@
       <window_info anchor="bottom" id="Statistic" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -193,32 +207,26 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/RpslsClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RpslsClient.java" />
     <entry file="file://$PROJECT_DIR$/src/RpslsServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-414">
-          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+        <state relative-caret-position="463">
+          <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2073#2074#0" expanded="true" />
+            <element signature="method#createContent#0;class#RpslsServer#0" />
+            <element signature="e#2719#2720#0" expanded="true" />
+            <element signature="e#2747#2748#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Server.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
+        <state relative-caret-position="780">
           <caret line="54" column="28" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#812#813#0" expanded="true" />
-            <element signature="e#828#829#0" expanded="true" />
           </folding>
         </state>
       </provider>
