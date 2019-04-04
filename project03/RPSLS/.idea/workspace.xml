@@ -2,20 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fa825c7-622a-44f4-8af2-eacc6dbe6d47" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClientFX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gesture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Round.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ServerFX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RpslsClient/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RpslsClient/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RpslsClient/out/production/RpslsClient/RpslsClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RpslsClient/out/production/RpslsClient/RpslsClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RpslsClient/src/RpslsClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RpslsClient/src/RpslsClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RpslsServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RpslsServer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RpslsServer/out/production/RpslsServer/RpslsServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RpslsServer/out/production/RpslsServer/RpslsServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RpslsServer/src/RpslsServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RpslsServer/src/RpslsServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPSLS.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsClient/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsClient/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsClient/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsClient/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsClient/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsClient/RpslsClient.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsClient/out/production/RpslsClient/RpslsClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsClient/out/production/RpslsClient/img/lizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsClient/out/production/RpslsClient/img/paper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsClient/out/production/RpslsClient/img/rock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsClient/out/production/RpslsClient/img/scissors.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsClient/out/production/RpslsClient/img/spock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsClient/src/RpslsClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsClient/src/img/lizard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsClient/src/img/paper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsClient/src/img/rock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsClient/src/img/scissors.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsClient/src/img/spock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsServer/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsServer/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsServer/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsServer/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsServer/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsServer/RpslsServer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsServer/out/production/RpslsServer/RpslsServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsServer/out/production/RpslsServer/Server$ConnThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsServer/out/production/RpslsServer/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsServer/src/RpslsServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RpslsServer/src/Server.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +46,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ClientFX.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-508">
+            <state relative-caret-position="465">
               <caret line="53" selection-start-line="53" selection-end-line="53" />
               <folding>
                 <element signature="method#stop#0;class#ClientFX#0" />
@@ -45,7 +62,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ServerFX.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
+            <state relative-caret-position="615">
               <caret line="55" column="50" selection-start-line="55" selection-start-column="50" selection-end-line="55" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -57,7 +74,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
+            <state relative-caret-position="540">
               <caret line="65" selection-start-line="65" selection-end-line="65" />
               <folding>
                 <element signature="method#Client#0;class#Client#0" />
@@ -77,28 +94,15 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Server.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="698">
+            <state relative-caret-position="810">
               <caret line="90" selection-start-line="90" selection-end-line="90" />
               <folding>
                 <element signature="method#Server#0;class#Server#0" />
                 <element signature="method#startConn#0;class#Server#0" />
                 <element signature="method#send#0;class#Server#0" />
-                <element signature="e#1020#1068#1" />
                 <element signature="method#closeConn#0;class#Server#0" />
-                <element signature="e#1176#1217#1" />
                 <element signature="n#!!block;n#getPlayerNum#0;n#Server#0" />
-                <element signature="e#2139#2302#0" />
                 <element signature="method#run#0;class#ClientThread#0;class#Server#0" />
-                <element signature="e#3136#5043#0" />
-                <element signature="e#3166#5029#1" />
-                <element signature="e#3328#3513#1" />
-                <element signature="e#3435#3582#1" />
-                <element signature="e#3655#5011#1" />
-                <element signature="e#3346#3882#1" />
-                <element signature="e#3461#3563#1" />
-                <element signature="e#3593#3727#1" />
-                <element signature="e#3922#4353#1" />
-                <element signature="e#4463#4598#0" />
               </folding>
             </state>
           </provider>
@@ -139,13 +143,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Round.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="270">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="e#98#99#0" expanded="true" />
                 <element signature="e#125#126#0" expanded="true" />
-                <element signature="e#394#395#0" expanded="true" />
-                <element signature="e#423#424#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -154,8 +156,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+            <state relative-caret-position="30">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
               <folding>
                 <element signature="method#Game#0;class#Game#0" />
                 <element signature="method#roundOver#0;class#Game#0" />
@@ -163,16 +165,7 @@
                 <element signature="n#!!block;n#getCurWinner#0;n#Game#0" />
                 <element signature="n#!!block;n#getOverallWinner#0;n#Game#0" />
                 <element signature="method#addGesture#0;class#Game#0" />
-                <element signature="e#1121#1198#1" />
-                <element signature="e#1211#1849#1" />
-                <element signature="e#1337#1419#1" />
-                <element signature="e#1459#1541#1" />
-                <element signature="e#1576#1666#1" />
-                <element signature="e#1698#1753#1" />
-                <element signature="e#1784#1839#1" />
                 <element signature="method#printRound#0;class#Game#0" />
-                <element signature="e#2006#2365#1" />
-                <element signature="e#2272#2333#1" />
                 <element signature="n#!!block;n#pointString#0;n#Game#0" />
               </folding>
             </state>
@@ -217,9 +210,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1065" />
-    <option name="y" value="303" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="217" />
+    <option name="y" value="236" />
     <option name="width" value="864" />
     <option name="height" value="777" />
   </component>
@@ -230,6 +223,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -246,7 +240,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -317,17 +310,19 @@
       <updated>1554221475914</updated>
       <workItem from="1554221482598" duration="21195000" />
       <workItem from="1554262229254" duration="4690000" />
+      <workItem from="1554267599046" duration="552000" />
+      <workItem from="1554275944297" duration="29000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25885000" />
+    <option name="totallyTimeSpent" value="26466000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1065" y="303" width="864" height="777" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="991" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939173" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11448349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -346,7 +341,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Statistic" order="11" />
+      <window_info active="true" anchor="bottom" id="Statistic" order="11" visible="true" weight="0.32925472" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -412,22 +407,6 @@
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Game.java</url>
-          <line>42</line>
-          <properties class="Game" method="addGesture">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Game.java</url>
-          <line>30</line>
-          <properties class="Game" method="gameOver">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/ClientFX.java</url>
           <line>53</line>
           <properties class="ClientFX" method="createClient">
@@ -453,32 +432,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Round.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#98#99#0" expanded="true" />
-            <element signature="e#125#126#0" expanded="true" />
-            <element signature="e#394#395#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ServerFX.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="55" column="50" selection-start-line="55" selection-start-column="50" selection-end-line="55" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ClientFX.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-508">
+        <state relative-caret-position="465">
           <caret line="53" selection-start-line="53" selection-end-line="53" />
           <folding>
             <element signature="method#stop#0;class#ClientFX#0" />
@@ -490,9 +446,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ServerFX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="55" column="50" selection-start-line="55" selection-start-column="50" selection-end-line="55" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
+        <state relative-caret-position="540">
           <caret line="65" selection-start-line="65" selection-end-line="65" />
           <folding>
             <element signature="method#Client#0;class#Client#0" />
@@ -510,28 +476,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Server.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="698">
+        <state relative-caret-position="810">
           <caret line="90" selection-start-line="90" selection-end-line="90" />
           <folding>
             <element signature="method#Server#0;class#Server#0" />
             <element signature="method#startConn#0;class#Server#0" />
             <element signature="method#send#0;class#Server#0" />
-            <element signature="e#1020#1068#1" />
             <element signature="method#closeConn#0;class#Server#0" />
-            <element signature="e#1176#1217#1" />
             <element signature="n#!!block;n#getPlayerNum#0;n#Server#0" />
-            <element signature="e#2139#2302#0" />
             <element signature="method#run#0;class#ClientThread#0;class#Server#0" />
-            <element signature="e#3136#5043#0" />
-            <element signature="e#3166#5029#1" />
-            <element signature="e#3328#3513#1" />
-            <element signature="e#3435#3582#1" />
-            <element signature="e#3655#5011#1" />
-            <element signature="e#3346#3882#1" />
-            <element signature="e#3461#3563#1" />
-            <element signature="e#3593#3727#1" />
-            <element signature="e#3922#4353#1" />
-            <element signature="e#4463#4598#0" />
           </folding>
         </state>
       </provider>
@@ -566,10 +519,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Round.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#125#126#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Game.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+        <state relative-caret-position="30">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
           <folding>
             <element signature="method#Game#0;class#Game#0" />
             <element signature="method#roundOver#0;class#Game#0" />
@@ -577,16 +541,7 @@
             <element signature="n#!!block;n#getCurWinner#0;n#Game#0" />
             <element signature="n#!!block;n#getOverallWinner#0;n#Game#0" />
             <element signature="method#addGesture#0;class#Game#0" />
-            <element signature="e#1121#1198#1" />
-            <element signature="e#1211#1849#1" />
-            <element signature="e#1337#1419#1" />
-            <element signature="e#1459#1541#1" />
-            <element signature="e#1576#1666#1" />
-            <element signature="e#1698#1753#1" />
-            <element signature="e#1784#1839#1" />
             <element signature="method#printRound#0;class#Game#0" />
-            <element signature="e#2006#2365#1" />
-            <element signature="e#2272#2333#1" />
             <element signature="n#!!block;n#pointString#0;n#Game#0" />
           </folding>
         </state>
