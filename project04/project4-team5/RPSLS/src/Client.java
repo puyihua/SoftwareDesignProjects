@@ -10,40 +10,40 @@ public class Client {
     private int port;
 
     private ConnThread connthread = new ConnThread();
-    private Consumer<Serializable> callback;
-    private Consumer<Serializable> controlCallback;
+    private Consumer<Serializable> callback;           // pass the command to the UI
 
 
-    Client(String ip, int port, Consumer<Serializable> callback, Consumer<Serializable> callback2) {
+    Client(String ip, int port, Consumer<Serializable> callback) {
         this.callback = callback;
-        this.controlCallback = callback2;
+
         connthread.setDaemon(true);
         this.ip = ip;
         this.port = port;
     }
 
-    public void startConn() throws Exception{
+    public void startConn() throws Exception {
         connthread.start();
     }
 
-    public void send(Serializable data) throws Exception{
+    public void send(Serializable data) throws Exception {
+        System.out.println("Client sent:" + data);
         connthread.out.writeObject(data);
     }
 
-    public void closeConn() throws Exception{
+    public void closeConn() throws Exception {
         connthread.socket.close();
     }
 
 
-    class ConnThread extends Thread{
+    class ConnThread extends Thread {
         private Socket socket;
         private ObjectOutputStream out;
 
         public void run() {
             try(
-                Socket socket = new Socket(getIP(), getPort());
-                ObjectOutputStream out = new ObjectOutputStream( socket.getOutputStream());
-                ObjectInputStream in = new ObjectInputStream(socket.getInputStream())){
+                    Socket socket = new Socket(getIP(), getPort());
+                    ObjectOutputStream out = new ObjectOutputStream(socket.getOutputStream());
+                    ObjectInputStream in = new ObjectInputStream(socket.getInputStream())) {
 
                 this.socket = socket;
                 this.out = out;
@@ -51,25 +51,15 @@ public class Client {
 
                 while(true) {
                     Serializable data = (Serializable) in.readObject();
-                    decode(data);
+                    System.out.println("client received:" + data);
+                    callback.accept(data);
                 }
 
             }
             catch(Exception e) {
-                callback.accept("connection Closed");
+                callback.accept("$ Connection closed\n");
+                System.out.println(e);
             }
-        }
-    }
-
-    private void decode(Serializable data){
-        String s = data.toString();
-
-        if(s.charAt(0)=='#')
-        {
-            this.controlCallback.accept(data);
-        }
-        else{
-            this.callback.accept(data);
         }
     }
 
